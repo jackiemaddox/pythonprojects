@@ -1,7 +1,8 @@
-# pythonprojects
+pythonprojects
 
 ---------------------------------
-
+# Basic Builds
+---------------------------------
 Module 1:
   Birthday Calculator
  
@@ -16,3 +17,12 @@ Module 4 :
  
 Module 5:
   Wizard Game (need to use wizard items with game)
+  
+---------------------------------
+# Visualizations   
+---------------------------------
+Introduction to Seaborn and Matplotlib
+  
+Avatar the Last Airbender Project
+  
+Disney Blog Project
